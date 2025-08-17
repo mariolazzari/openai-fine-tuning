@@ -8,3 +8,5 @@
 
 ### Formatting training data
 
+[JSONL](https://platform.openai.com/docs/guides/direct-preference-optimization#data-format)
+
