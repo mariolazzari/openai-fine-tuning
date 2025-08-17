@@ -10,3 +10,19 @@
 
 [JSONL](https://platform.openai.com/docs/guides/direct-preference-optimization#data-format)
 
+### Testing training data
+
+### Create fine tuning job
+
+### Using fine tuned model
+
+### Testing epoch based endpoint
+
+## Advanced tools and features
+
+### Fine tuned API
+
+### Upload API
+
+
+
